@@ -5,4 +5,3 @@
 # Program Inputs: The number of milliliters (mL)
 # Program Outputs: The number of milliliters converted to teaspoons and tablespoons, respectively
 
-x
